@@ -1,0 +1,8 @@
+test_new_contact:
+  test_new_contact_001:
+    name: "hello1"
+    phone: "13333333333"
+  test_new_contact_002:
+    name: "xiaoming1"
+    phone: "18888888888"
+
